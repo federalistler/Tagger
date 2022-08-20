@@ -78,10 +78,10 @@ async def info(event):
                       ],
                       [
                        Button.url('📢 Kanal', 'https://t.me/StarBotKanal'),
-                       Button.url('🇹🇷 Sahibim', 'https://t.me/Hayiboo')
+                       Button.url('🇹🇷 Sahibim', 'https://t.me/Merdoocan')
                       ],
                       [
-                       Button.url('🧑🏻‍💻 ɢɪᴛʜᴜʙ ᴋᴀʏɴᴀᴋ ᴋᴏᴅᴜ 🧑🏻‍💻', 'https://github.com/MehmetAtes21/Tagger')
+                       Button.url('🧑🏻‍💻 ɢɪᴛʜᴜʙ ᴋᴀʏɴᴀᴋ ᴋᴏᴅᴜ 🧑🏻‍💻', 'https://t.me/Merdoocan')
                       ],
                     ),
                     link_preview=False
@@ -107,10 +107,10 @@ async def start(event):
                       ],
                       [
                        Button.url('Beni Grubuna Ekle', 'https://t.me/StartaggerBot?startgroup=a'),
-                       Button.url('Kanal', 'https://t.me/StarBotKanal')
+                       Button.url('Kanal', 'https://t.me/+DoMHxUEX3TUwMjlk')
                       ],
                       [
-                       Button.url('Sahibim', 'https://t.me/Hayiboo')
+                       Button.url('Sahibim', 'https://t.me/Merdoocan')
                       ],
                     ),
                     link_preview=False)
@@ -130,10 +130,10 @@ async def handler(event):
                       ],
                       [
                        Button.url('Beni Grubuna Ekle', 'https://t.me/StartaggerBot?startgroup=a'),
-                       Button.url('Kanal', 'https://t.me/StarBotKanal')
+                       Button.url('Kanal', 'https://t.me/+DoMHxUEX3TUwMjlk')
                       ],
                       [
-                       Button.url('Sahibim', 'https://t.me/Hayiboo')
+                       Button.url('Sahibim', 'https://t.me/Merdoocan')
                       ],
                     ),
                     link_preview=False)
