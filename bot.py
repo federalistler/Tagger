@@ -77,7 +77,7 @@ async def info(event):
                        Button.url('Beni Grubuna Ekle ➕', 'https://t.me/Startaggerbot?startgroup=a')
                       ],
                       [
-                       Button.url('📢 Kanal', 'https://t.me/StarBotKanal'),
+                       Button.url('📢 Kanal', 'https://t.me/+DoMHxUEX3TUwMjlk'),
                        Button.url('🇹🇷 Sahibim', 'https://t.me/Merdoocan')
                       ],
                       [
